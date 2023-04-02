@@ -1,0 +1,37 @@
+/* Style for the label */
+label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  /* Style for the text area input */
+  textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: vertical;
+    min-height: 100px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the button */
+  button {
+    display: block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Style for the quiz container */
+  #quiz {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
